@@ -1,5 +1,5 @@
 {
-  "name": "Jerome NY Times",
+  "name": "jeromenytimes",
   "version": "2.9.8",
   "dependencies": {
     "express": "^4.16.3",
