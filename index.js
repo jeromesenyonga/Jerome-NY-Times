@@ -11,7 +11,7 @@ app.set('view engine', 'handlebars')
 app.use(express.static(path.resolve(__dirname, 'public')))
 
 app.get('/', function(req, res){
-    res.render('main');
+    res.render('index');
 })
 
 app.listen(app.get('port'), function(){
