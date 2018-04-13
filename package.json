@@ -1,0 +1,8 @@
+{
+  "name": "Jerome NY Times",
+  "version": "2.9.8",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0"
+  }
+}
